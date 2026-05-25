@@ -1,4 +1,4 @@
-function calculateNumbers(var1, var2) {
-    const sum = var1 + var2;
+function calculateNumbers(num1, num2) {
+    const sum = num1 + num2;
     return sum;
 }
